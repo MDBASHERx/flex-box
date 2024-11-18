@@ -42,12 +42,6 @@ body
     padding: 20px;
     width: 300px;
     border-radius: 10px;
-    transition: transform 0.2s;
-}
-
-.pricing-plan:hover
-{
-    transform: translateY(-10px);
 }
 
 .plan-title
